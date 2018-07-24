@@ -1,0 +1,23 @@
+{
+  "name": "FLCommonLibrary",
+  "version": "0.1.0",
+  "summary": "Test pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/joshuawork/FLCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joshuawork": "joshua.lubins@techstudio.com.sg"
+  },
+  "source": {
+    "git": "https://github.com/joshuawork/FLCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FLCommonLibrary/Classes/**/*",
+  "swift_version": "4.1"
+}
